@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\obj\Debug\S.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\obj\Debug\S.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\bin\Debug\SOLID.exe
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\bin\Debug\SOLID.pdb
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\obj\Debug\SOLID.exe
+C:\Users\Lenovo\OneDrive\Bureau\SOLID\SOLID\SOLID\obj\Debug\SOLID.pdb
